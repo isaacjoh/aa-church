@@ -16,7 +16,7 @@ export default function Hero() {
               <p className="text-xl text-gray-600 mb-8" data-aos="zoom-y-out" data-aos-delay="150">Will you join us in embracing the call for the Asian American Church?</p>
               <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center" data-aos="zoom-y-out" data-aos-delay="300">
                 <div>
-                  <a target="_blank" className="btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-4 sm:w-auto sm:mb-0" href="https://www.amazon.com/">Buy on Amazon</a>
+                  <a target="_blank" className="btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-4 sm:w-auto sm:mb-0" href="https://www.amazon.com/Letter-Asian-American-Church-Embracing/dp/B0D127WSWM/">Buy on Amazon</a>
                 </div>
                 <div>
                   <a target="_blank" className="btn text-white bg-gray-900 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="https://sola.network/book">Learn More</a>
